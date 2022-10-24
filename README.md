@@ -2,3 +2,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=os7blue)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=os7blue)](https://github.com/anuraghazra/github-readme-stats)
